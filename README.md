@@ -19,5 +19,5 @@ Add the script to any javascript injector on browser extension.
 Tested on Chrome browser with CJS extension.
 
 TODO: 
-*Configure it to save the post directly to the HDD rather than just rendering the image.
-*Create an extension, to save.
+* Configure it to save the post directly to the HDD rather than just rendering the image.
+* Create an extension, to save.
